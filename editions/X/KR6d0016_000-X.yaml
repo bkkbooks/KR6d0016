@@ -1,0 +1,19 @@
+canonical_identifier: bkk:krp/KR6d0016/x/v1/juan/0
+seq: 0
+front:
+  text: 法華經文句輔正記目次卷第一釋序品第一卷第二釋序品之餘卷第三釋序品之餘釋方便品第二卷第四釋方便品之餘卷第五釋譬喻品第三卷第六釋信解品第四卷第七釋藥草喻品第五釋授記品第六釋化城喻品第七釋五百弟子授記品第八釋人記品第九卷第八釋法師品第十釋見寶塔品第十一釋提婆品第十二釋勸持品第十三釋安樂行品第十四卷第九釋涌出品第十五釋壽量品第十六釋分別功德品第十七卷第十釋隨喜功德品第十八釋法師功德品第十九釋不輕品第二十釋神力品第二十一釋囑累品第二十二釋藥王品第二十三釋妙音品第二十四釋普門品第二十五釋陀羅尼品第二十六釋嚴王品第二十七釋普賢品第二十八法華經文句輔正記目次終
+  hash: sha256:1d0f102bec92ddc1a7b8df6c81f875c31318b6d7f5742a2a218975f6886f50c2
+  markers:
+  - {type: 其他, offset: 0, content: 法華經文句輔正記目次, id: KR6d0016_X_000-mulu-1, level: '1'}
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 法華經文句輔正記
+  edition:
+    short: x
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/X/X28/X28n0593.xml
+    old_id: X28n0593
+hash: sha256:b902a15f4563584e6912c643089dd0dcbe07ebd0b5a0cb8c6ece493d72b6efd6

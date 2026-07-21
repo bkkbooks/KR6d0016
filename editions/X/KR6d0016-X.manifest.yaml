@@ -19,7 +19,7 @@ metadata:
     short: X
 assets:
   parts:
-  - {seq: 0, filename: KR6d0016_000-X.yaml, hash: 'sha256:b902a15f4563584e6912c643089dd0dcbe07ebd0b5a0cb8c6ece493d72b6efd6'}
+  - {seq: 0, filename: KR6d0016_000-X.yaml, hash: 'sha256:2e45a2001e99122fdcca5c18ad875e5be6e6f77646ca31eec4774560ffa426b2'}
   - {seq: 1, filename: KR6d0016_001-X.yaml, hash: 'sha256:84265f6e86183cdf6509a76864125f2305c4f0370e844ee0e93f6506a595ede5'}
   - {seq: 2, filename: KR6d0016_002-X.yaml, hash: 'sha256:71d311d8b6cb19e4b0820dbcbc92f30a02d60a5cfb7431e472ec58608b639050'}
   - {seq: 3, filename: KR6d0016_003-X.yaml, hash: 'sha256:3a059341eaae16715e4a44d94658e5f41bacc5ea3a4028b1e00dea83da2e7852'}
@@ -31,7 +31,7 @@ assets:
   - {seq: 9, filename: KR6d0016_009-X.yaml, hash: 'sha256:f4c7ddbbeefaf11bc05c407a978a83d6389f26d9e740bb2498154572ba0f0600'}
   - {seq: 10, filename: KR6d0016_010-X.yaml, hash: 'sha256:076f1a24f03b6f2169eb502fe4a48d3ebc46221a0ccd501d45a4dac113a2b72d'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6d0016_000-X.markers.yaml, hash: 'sha256:171733c6406abb210c5ede44cdf2e70c4e3e79877adbe2692b92d3da28f4d59c'}
+  - {seq: 0, role: markers, filename: assets/KR6d0016_000-X.markers.yaml, hash: 'sha256:06486ae413f7066340c56fd6ad224d0e1597f385ef6c87c9aa64f63aecc44dac'}
   - {seq: 1, role: markers, filename: assets/KR6d0016_001-X.markers.yaml, hash: 'sha256:9a05c83b1efa713a12fab295a5f741a090537c6f9e70d2d655d49854f916c408'}
   - {seq: 2, role: markers, filename: assets/KR6d0016_002-X.markers.yaml, hash: 'sha256:f31c7e87825ba5d722a4633c55baaa176edbf028a7a49f51c42bfdd3539c943c'}
   - {seq: 3, role: markers, filename: assets/KR6d0016_003-X.markers.yaml, hash: 'sha256:a44d35b092dacf665d78d3d40daaf4b8ba649ebd7ae73f803278c4603cd5541e'}
@@ -47,7 +47,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6d0016_X_000-mulu-1
     span:
-    - front
+    - body
     - 0
     - 0
   label: 法華經文句輔正記目次
@@ -445,4 +445,4 @@ table_of_contents:
   label: 釋普賢品第二十八
   type: mulu
   level: 1
-hash: sha256:3cea1bf66173a6c63cb3fd94b0f89e6e50812de6e92e2c0849ee9ac3b20f7d94
+hash: sha256:9b896a98b84a2dd01df1940ee898ca5fb71eb6383a256b1835339fab6f08b9ac
